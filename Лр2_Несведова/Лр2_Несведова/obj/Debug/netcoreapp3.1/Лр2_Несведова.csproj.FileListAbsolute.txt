@@ -1,0 +1,13 @@
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\bin\Debug\netcoreapp3.1\Лр2_Несведова.exe
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\bin\Debug\netcoreapp3.1\Лр2_Несведова.deps.json
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\bin\Debug\netcoreapp3.1\Лр2_Несведова.runtimeconfig.json
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\bin\Debug\netcoreapp3.1\Лр2_Несведова.runtimeconfig.dev.json
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\bin\Debug\netcoreapp3.1\Лр2_Несведова.dll
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\bin\Debug\netcoreapp3.1\Лр2_Несведова.pdb
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.csprojAssemblyReference.cache
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.AssemblyInfoInputs.cache
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.AssemblyInfo.cs
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.csproj.CoreCompileInputs.cache
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.dll
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.pdb
+E:\4 курс\Поляков\Лр2_Несведова\Лр2_Несведова\obj\Debug\netcoreapp3.1\Лр2_Несведова.genruntimeconfig.cache
